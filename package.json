@@ -1,5 +1,5 @@
 {
-  "name": "fasum-cloud",
+  "name": "fasum-fcm",
   "version": "1.0.0",
   "description": "REST API fasum menggunakan Express.js",
   "main": "app.js",
